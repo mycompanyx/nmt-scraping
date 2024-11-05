@@ -1,6 +1,5 @@
-Here’s a template for a `README.md` file that you can use to guide others (or yourself) through the initialization and usage of a Scrapy project:
 
-# Create a new virtual environment named "scrapy_env"
+## Create a new virtual environment named "scrapy_env"
 python -m venv scrapy_env
 
 # Activate the virtual environment
